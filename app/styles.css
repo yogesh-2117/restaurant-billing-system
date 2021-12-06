@@ -1,0 +1,26 @@
+.title{
+    text-align: center;
+    margin:2% auto;
+}
+.text-muted{
+    font-size: 1.3rem;
+}
+.menu{
+    background-color: #ffc107;
+    padding-bottom: 1%;
+}
+.menu-title{
+    text-align: center;
+    font-size: 3rem;
+}
+.cart{
+    background-color: #dc3545;
+}
+.menu-items{
+    background-color: darkgray;
+    padding: 5% auto;
+}
+.cart-items{
+    padding:2.5% 0.1% 2.5% 1%;
+    
+}
